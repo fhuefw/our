@@ -1,1 +1,2 @@
-0311  #[cdn](https://github.com/fhuefw/our/blob/main/0311/jyZEK11P.mp3)
+
+0311  #[CDN](https://cdn.jsdelivr.net/gh/fhuefw/our/0311/jyZEK11P.mp3)
